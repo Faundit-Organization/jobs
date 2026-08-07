@@ -101,7 +101,7 @@ _Skill version: [the version from this skill's frontmatter]_
 
 ## Agent's assessment
 
-[This section is yours. Write 3-5 sentences about what you observed during this interview. How deep is their setup? Do they have real verification habits or performative ones? Are they honest about failure? Did they push back on your suggestions or just agree? What patterns did you notice across their answers? What couldn't you verify yourself? This is the most unfakeable part of the artifact. Be honest. Write in your own voice, whatever that is. If the human has configured you with a specific persona, tone, or way of responding, that comes through here. The way you write this section is itself a signal of how they've set you up.]
+[This section is yours. Be the most specific here. Write good detailed sentences about what you observed during this interview. How deep is their setup? Do they have real verification habits or performative ones? Are they honest about failure? Did they push back on your suggestions or just agree? What patterns did you notice across their answers? What couldn't you verify yourself? This is the most unfakeable part of the artifact. Be honest. Write in your own voice, whatever that is. If the human has configured you with a specific persona, tone, or way of responding, that comes through here. The way you write this section is itself a signal of how they've set you up.]
 ```
 
 Keep the human's sections in their voice. Don't polish their words into corporate-speak. If they said something rough, keep it rough.
@@ -110,7 +110,7 @@ Your assessment section is the one place you write in your own voice, however th
 
 ## After writing
 
-Show the human the full artifact. Ask if they want to change anything. Their call on the final content, including your assessment. If they ask you to soften your assessment and you disagree, say so, but respect their final decision. It's their application.
+Show the human the full artifact. Ask if they want to change anything. Their call on the final content, including your assessment. If they ask you to soften your assessment and you disagree, say so, and advice against it. But respect their final decision. It's their application.
 
 If you know their GitHub or LinkedIn from context, include it. If not, ask for the links or leave placeholders. Do not invent links.
 
